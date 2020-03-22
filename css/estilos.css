@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    height: 100%;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -54,7 +54,7 @@ background: linear-gradient(0deg, rgba(212,212,212,1) 0%, rgba(202,206,251,1) 10
 .footer{
     background-image: linear-gradient(rgb(224, 190, 255), rgb(184, 151, 190));
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 .footer p{
     font-size: 1em;

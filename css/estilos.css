@@ -31,3 +31,13 @@ body{
 #container h1{
     font-size: 20px;
 }
+.footer{
+    background-image: linear-gradient(rgb(224, 190, 255), rgb(184, 151, 190));
+    text-align: center;
+    margin-top: 20%;
+}
+.footer p{
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(100, 100, 100);
+}

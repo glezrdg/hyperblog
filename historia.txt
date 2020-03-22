@@ -4,7 +4,12 @@ Layel tiene 18 a;os y nacio en Cuba
 
 MaNana nos enfocaremos en su vida
 
+Experimento 1
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Master 1 
+>>>>>>> exp 1

@@ -4,7 +4,7 @@ Un blog para el curso de Git y GitHub de Platzi
 >El curso de Git y GitHub de Platzi me ayudo bastante porque es una de las mejores maneras de trabajar profesionalmente.
 > -elmejor
 
-##En este curso vemos de todo:
+## En este curso vemos de todo:
 * Todos los comandos de Git
 * El Flujo de Trabajo de Git
 * El Verdadero amor por las buenas practicas.

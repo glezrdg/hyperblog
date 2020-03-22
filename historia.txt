@@ -7,9 +7,15 @@ MaNana nos enfocaremos en su vida
 Experimento 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master 1
 
 Master 2
 =======
+Master 1 
+>>>>>>> exp 1
+=======
+Experimento 2
+
 Master 1 
 >>>>>>> exp 1
